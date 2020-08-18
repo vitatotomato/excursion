@@ -24,7 +24,11 @@ body{
     color: gray;
 }
 
-
+.last {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
 
 /* LINKS */
 
